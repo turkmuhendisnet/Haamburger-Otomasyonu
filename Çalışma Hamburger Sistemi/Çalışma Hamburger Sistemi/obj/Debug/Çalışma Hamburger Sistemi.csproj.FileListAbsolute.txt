@@ -1,0 +1,9 @@
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Hamburger Sistemi\Çalışma Hamburger Sistemi\bin\Debug\Çalışma Hamburger Sistemi.exe.config
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Hamburger Sistemi\Çalışma Hamburger Sistemi\bin\Debug\Çalışma Hamburger Sistemi.exe
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Hamburger Sistemi\Çalışma Hamburger Sistemi\bin\Debug\Çalışma Hamburger Sistemi.pdb
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Hamburger Sistemi\Çalışma Hamburger Sistemi\obj\Debug\Çalışma Hamburger Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Hamburger Sistemi\Çalışma Hamburger Sistemi\obj\Debug\Çalışma_Hamburger_Sistemi.Form1.resources
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Hamburger Sistemi\Çalışma Hamburger Sistemi\obj\Debug\Çalışma_Hamburger_Sistemi.Properties.Resources.resources
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Hamburger Sistemi\Çalışma Hamburger Sistemi\obj\Debug\Çalışma Hamburger Sistemi.csproj.GenerateResource.Cache
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Hamburger Sistemi\Çalışma Hamburger Sistemi\obj\Debug\Çalışma Hamburger Sistemi.exe
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Hamburger Sistemi\Çalışma Hamburger Sistemi\obj\Debug\Çalışma Hamburger Sistemi.pdb
