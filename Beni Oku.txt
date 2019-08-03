@@ -1,14 +1,14 @@
-Hamburger satan bir mağazada siparişe menü gimek için yapılmış olan otomasyon.
+Hamburger satan bir maÄŸazada sipariÅŸe menÃ¼ gimek iÃ§in yapÄ±lmÄ±ÅŸ olan otomasyon.
 
-Uygulama Visual Studio 2017 de yazılmıştır.
-Dil olarak C# programlama kullanılmıştır.
-Framework 4.64 tür.
+Uygulama Visual Studio 2017 de yazÄ±lmÄ±ÅŸtÄ±r.
+Dil olarak C# programlama kullanÄ±lmÄ±ÅŸtÄ±r.
+.Net Framework 4.6'dÄ±r.
 
-Uygulama çalıştırıldığında 
+Uygulama Ã§alÄ±ÅŸtÄ±rÄ±ldÄ±ÄŸÄ±nda 
 
-1-ComboBox'tan menu seçimi yapılır
-2-Radio Button'lardan boyut seçimi yapılır.
-3-CheckBox'lardan ekstra malzeme seçimi yapılır.
-4-ComboBox'ttan adet seçimi yapılır
+1-ComboBox'tan menu seÃ§imi yapÄ±lÄ±r
+2-Radio Button'lardan boyut seÃ§imi yapÄ±lÄ±r.
+3-CheckBox'lardan ekstra malzeme seÃ§imi yapÄ±lÄ±r.
+4-ComboBox'ttan adet seÃ§imi yapÄ±lÄ±r
 
-daha sonra sepete ekle butonu ile sipariş tutarı ekrana yansır ve sipariş tamamlanır.
+daha sonra sepete ekle butonu ile sipariÅŸ tutarÄ± ekrana yansÄ±r ve sipariÅŸ tamamlanÄ±r.
