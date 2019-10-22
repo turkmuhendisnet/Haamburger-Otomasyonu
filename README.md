@@ -1,3 +1,4 @@
+#Hamburger Siparişi Alma Uygulaması
 Hamburger satan bir mağazada siparişe menü gimek için yapılmış olan otomasyon.
 
 Uygulama Visual Studio 2017 de yazılmıştır.
@@ -12,3 +13,4 @@ Uygulama çalıştırıldığında
 4-ComboBox'ttan adet seçimi yapılır
 
 daha sonra sepete ekle butonu ile sipariş tutarı ekrana yansır ve sipariş tamamlanır.
+![Uygulama Resmi](https://github.com/turkmuhendisnet/Hamburger-Otomasyonu/blob/master/Otomasyon%20Resmi.jpg)
