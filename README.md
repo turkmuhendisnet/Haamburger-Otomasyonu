@@ -1,10 +1,12 @@
-#Hamburger Siparişi Alma Uygulaması
-Hamburger satan bir mağazada siparişe menü gimek için yapılmış olan otomasyon.
+# Hamburger Siparişi Alma Uygulaması
+Hamburger satan bir mağazada siparişe menü gimek için yapılmış olan uygulamadır.
 
+## Uygulama Bilgileri
 Uygulama Visual Studio 2017 de yazılmıştır.
 Dil olarak C# programlama kullanılmıştır.
 .Net Framework 4.6'dır.
 
+## Uygulama Çalışması
 Uygulama çalıştırıldığında 
 
 1-ComboBox'tan menu seçimi yapılır
